@@ -33,7 +33,7 @@
 - Область історії повідомлень (скролиться)
 - Панель вводу: select(тема) | input(текст) | button(Відправити) | button(Очистити)
 
-Зображення прототипу:
+## Зображення прототипу:
 <img width="1058" height="702" alt="image" src="https://github.com/user-attachments/assets/bedd461d-6ff9-4957-9805-9d5e5d918333" />
 
 ---
