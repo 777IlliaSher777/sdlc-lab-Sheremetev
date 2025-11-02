@@ -288,7 +288,7 @@
 З’являється відповідь бота: "Привіт! Чим можу допомогти?".
 
 ## Скриншот:
-<img width="809" height="589" alt="image" src="https://github.com/user-attachments/assets/d8cad77d-28a1-4f05-9d83-b0d8e8c8b1c7" />
+<img width="811" height="578" alt="image" src="https://github.com/user-attachments/assets/5aff867b-0815-44bf-a6db-c7599d561e1e" />
 
 ## Тест 2 — Відправка питання
 Мета: перевірити розпізнавання питання у кінці рядка.
